@@ -1,134 +1,137 @@
 <div align="center">
 
-# 👋 Hi, I'm Hemanth Pindi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Hemanth%20Pindi&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Web%20Developer&descAlignY=60&descSize=16" alt="header" />
 
-### 💻 CSE Student • Web Developer • Problem Solver
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=Building+practical+projects;Learning+Java%2C+Python+%26+C;Full-stack+with+PHP+%26+MySQL;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</a>
 
-<p>
-  <a href="https://github.com/HemanthPindi">
-    <img src="https://img.shields.io/badge/GitHub-HemanthPindi-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/hemanthpindi-08758134b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/HemanthPindi"><img src="https://img.shields.io/badge/GitHub-HemanthPindi-0f172a?style=flat-square&logo=github" /></a>
+<a href="https://www.linkedin.com/in/hemanthpindi-08758134b"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=flat-square&logo=linkedin" /></a>
+<img src="https://komarev.com/ghpvc/?username=HemanthPindi&style=flat-square&color=0f172a&label=Profile+views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About
 
-Hi! I'm **Hemanth Pindi**, a Computer Science Engineering student who enjoys learning programming, building projects, and solving coding problems.
+Diploma student in **Computer Engineering** at Sri Vasavi Engineering College, Andhra Pradesh. I build things to learn, and I care about clean fundamentals: problem solving, data structures, and databases.
 
-I'm currently focused on strengthening my programming fundamentals and developing practical skills through projects.
-
-- 🎓 Computer Science Engineering Student
-- 💻 Learning and practicing Java, Python and C
-- 🌐 Interested in Web Development
-- 🗄️ Learning Databases and DBMS
-- 🧩 Practicing Problem Solving and Data Structures
-- 🚀 Building practical projects while learning
-- 📚 Always exploring new technologies
+```js
+const hemanth = {
+  role: "Computer Engineering Student",
+  focus: ["Web Development", "Problem Solving", "DBMS"],
+  learning: ["Java", "Python", "C", "Data Structures"],
+  currentlyBuilding: "Practical projects, one at a time",
+  openTo: ["Collaboration", "Internships", "Learning"],
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,php,mysql,react,flask,git,github&theme=dark" alt="skills" />
 
-### 🌐 Web Development
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+| Area | Technologies |
+|------|--------------|
+| **Languages** | C · Java · Python · JavaScript · PHP |
+| **Frontend** | HTML · CSS · JavaScript · React |
+| **Backend** | PHP · Flask |
+| **Database** | MySQL · DBMS concepts |
+| **Tools** | Git · GitHub |
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🍲 Flavour Hub
+Recipe recommendation website that finds recipes by name or by the ingredients you already have.
 
-A recipe recommendation website that helps users discover recipes based on recipe names and available ingredients.
-
-**Features include:**
-
-- 🔎 Recipe search
-- 🥕 Ingredient-based recipe search
-- 🥗 Veg / Non-Veg categories
-- 👤 User registration and login
-- 📝 User recipe posts
-- ⭐ Feedback, ratings and comments
-- 👨‍🍳 Chef profiles
-- 🍽️ Multiple diet categories
-
-**Tech Stack:**
+- Ingredient-based search
+- Veg / Non-Veg and diet categories
+- User login, recipe posts, ratings and comments
+- Chef profiles
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 💻 Smart Code Review System
+Learning-focused tool that analyzes student code, points out likely issues and gives suggestions instead of just handing over the fixed answer.
 
-A learning-oriented project designed to help students understand and improve their source code.
-
-The system focuses on analyzing code, identifying possible issues and providing useful suggestions rather than simply giving corrected code.
-
-**Tech Stack:**
+- Code analysis
+- Explanatory feedback
+- Built for students
 
 `React` `JavaScript` `Python` `Flask`
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🚦 Smart Transportation
-
-A transportation-focused project working with traffic-related information to support better understanding of urban mobility and transportation data.
-
-**Technologies:**
+Project exploring traffic-related data to better understand urban mobility and transportation.
 
 `Web` `JavaScript` `Data`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Java
- ├── OOP
- ├── Arrays
- ├── Methods
- ├── Inheritance
- └── Problem Solving
+| Track | Topics |
+|-------|--------|
+| ☕ **Java** | OOP · Arrays · Methods · Inheritance · Problem Solving |
+| 🌐 **Web** | HTML · CSS · JavaScript · PHP |
+| 🐍 **Programming** | Python · C · Data Structures |
+| 🗄️ **Databases** | MySQL · DBMS |
 
-Web Development
- ├── HTML
- ├── CSS
- ├── JavaScript
- └── PHP
+---
 
-Programming
- ├── Python
- ├── C
- └── Data Structures
+## 📊 GitHub Stats
 
-Database
- ├── MySQL
- └── DBMS
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=HemanthPindi&show_icons=true&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=94a3b8&hide_border=true&hide_title=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthPindi&layout=compact&theme=transparent&title_color=2563eb&text_color=94a3b8&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthPindi&theme=transparent&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=94a3b8&currStreakNum=94a3b8&sideNums=94a3b8&dates=64748b" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hemanthpindi-08758134b">
+  <img src="https://img.shields.io/badge/Message_me_on_LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>⭐ If you like something here, a star is always appreciated.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="footer" />
+
+</div>
